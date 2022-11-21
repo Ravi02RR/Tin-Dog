@@ -172,6 +172,13 @@ h2 {
 
     position: static;
     transform: rotate(0);
+    width: 50%;
+  }
+  h1{
+    font-size: 40px;
+  }
+  .nav-item-color{
+    margin-left: 150px;
   }
 }
   
