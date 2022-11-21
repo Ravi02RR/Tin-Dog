@@ -1,1 +1,1 @@
-TinDog Starting Files
+This is the first website I've created after learning web development from Algela Yu. This was her first project utilizing HTML, CSS, and Bootstrap, so I was able to learn from it and recreate it with some changes that I found appealing.
